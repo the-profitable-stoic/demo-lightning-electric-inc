@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Lightning Electric Inc",
+    "phone": "+12085716040",
+    "category": "electrician",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Powering Boise, Safely.",
+      "heroSubline": "Reliable electrical services for your home or business. Licensed and insured electricians serving Boise and surrounding areas.",
+      "aboutTitle": "Boise's Trusted Electrical Experts",
+      "aboutText": [
+        "Lightning Electric Inc started with a simple mission: to provide honest, reliable electrical services to the Boise community. We saw a need for electricians who not only knew their craft but also understood the importance of clear communication and customer satisfaction.",
+        "Our approach is straightforward: we listen to your needs, provide transparent pricing, and deliver quality workmanship that stands the test of time. We value integrity, safety, and exceeding expectations on every project, big or small.",
+        "We're proud to be a part of the Boise community. We actively support local initiatives and believe in giving back to the people who have supported us. When you choose Lightning Electric, you're choosing a company that cares about our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team consists of licensed and highly trained electricians with years of experience in the field."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies can happen anytime. We offer around-the-clock service to handle urgent situations."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work and are committed to ensuring your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Get a Free Estimate Today!",
+      "ctaSubline": "Contact us for a no-obligation quote on your electrical project."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast and reliable electrical repair services for Boise homes and businesses.",
+        "description": "From flickering lights to faulty outlets, electrical problems can be frustrating and potentially dangerous. Lightning Electric Inc offers comprehensive electrical repair services to address any issue you may be experiencing. Our experienced electricians will quickly diagnose the problem and provide efficient, effective solutions to restore your electrical system to full working order.\n\nWe handle a wide range of electrical repairs, including wiring issues, circuit breaker problems, outlet and switch repairs, lighting repairs, and more. We understand the importance of safety and adhere to all local codes and regulations to ensure your home or business is protected. With Boise's older housing stock in areas like the North End and the Bench, we're well-versed in updating and repairing aging electrical systems.\n\nDon't let electrical problems disrupt your life. Contact Lightning Electric Inc for prompt and professional repair services. We're available 24/7 for emergency repairs, so you can rest assured that we're always here when you need us.",
+        "process": [
+          "Step 1: Schedule an appointment for a convenient time.",
+          "Step 2: Our electrician will diagnose the electrical issue.",
+          "Step 3: We will provide a detailed estimate for the repair.",
+          "Step 4: We will complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Quick and reliable repairs",
+          "Experienced and licensed electricians",
+          "Upfront pricing",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We understand that electrical emergencies require immediate attention. We strive to respond to emergency calls within an hour, depending on our current workload and your location in the Boise area."
+          },
+          {
+            "question": "What types of electrical repairs do you handle?",
+            "answer": "We handle a wide range of electrical repairs, including wiring issues, circuit breaker problems, outlet and switch repairs, lighting repairs, and more. No job is too big or too small."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are licensed and insured for your protection and peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installations",
+        "name": "Electrical Installations",
+        "shortDescription": "Professional electrical installation services for homes and businesses in Boise.",
+        "description": "Whether you're building a new home, remodeling your existing space, or simply need to upgrade your electrical system, Lightning Electric Inc provides expert electrical installation services. Our team has the knowledge and experience to handle any installation project, from simple outlet replacements to complex wiring systems. With Boise's rapid growth and new construction in areas like Harris Ranch, we stay up-to-date on the latest codes and technologies.\n\nWe offer a full range of electrical installation services, including wiring, lighting, outlets, switches, circuit breakers, panels, and more. We use only high-quality materials and follow strict safety standards to ensure your electrical system is installed correctly and safely. Our goal is to provide you with a reliable and efficient electrical system that meets your needs and exceeds your expectations.\n\nFrom installing new recessed lighting in your kitchen to wiring a new addition to your home, Lightning Electric Inc is your trusted partner for all your electrical installation needs. Contact us today to discuss your project and receive a free estimate.",
+        "process": [
+          "Step 1: Consultation to discuss your installation needs.",
+          "Step 2: Detailed planning and design of the electrical system.",
+          "Step 3: Professional installation by licensed electricians.",
+          "Step 4: Thorough inspection and testing to ensure safety and functionality."
+        ],
+        "benefits": [
+          "Expert installation services",
+          "High-quality materials",
+          "Strict adherence to safety standards",
+          "Reliable and efficient electrical systems"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical inspections for new homes?",
+            "answer": "Yes, we offer comprehensive electrical inspections for new homes to ensure everything is up to code and functioning properly."
+          },
+          {
+            "question": "What types of lighting installations do you offer?",
+            "answer": "We offer a wide range of lighting installations, including recessed lighting, pendant lighting, track lighting, landscape lighting, and more."
+          },
+          {
+            "question": "Can you install a new electrical panel?",
+            "answer": "Yes, we can install new electrical panels to upgrade your electrical system and meet your power needs."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-solutions",
+        "name": "Lighting Solutions",
+        "shortDescription": "Enhance your home or business with our custom lighting solutions.",
+        "description": "Lightning Electric Inc offers a wide array of lighting solutions to enhance the ambiance, functionality, and energy efficiency of your home or business. Whether you're looking to create a cozy atmosphere in your living room or improve visibility in your workspace, we have the perfect lighting solutions for you. With Boise's long summer days and shorter winter days, proper lighting is essential for comfort and productivity.\n\nOur lighting services include design, installation, and maintenance of various lighting systems, including recessed lighting, pendant lighting, track lighting, landscape lighting, and more. We work closely with you to understand your vision and create a customized lighting plan that meets your specific needs and preferences. We also offer energy-efficient lighting options, such as LED lighting, to help you save money on your energy bills.\n\nFrom designing a stunning landscape lighting display to installing energy-efficient lighting in your office, Lightning Electric Inc is your trusted partner for all your lighting needs. Contact us today to schedule a consultation and discover the possibilities.",
+        "process": [
+          "Step 1: Consultation to discuss your lighting goals and preferences.",
+          "Step 2: Customized lighting design plan tailored to your space.",
+          "Step 3: Professional installation of your chosen lighting system.",
+          "Step 4: Testing and adjustments to ensure optimal performance."
+        ],
+        "benefits": [
+          "Customized lighting designs",
+          "Energy-efficient lighting options",
+          "Enhanced ambiance and functionality",
+          "Professional installation and maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional lighting options. It can also save you money on your energy bills."
+          },
+          {
+            "question": "Do you offer smart lighting solutions?",
+            "answer": "Yes, we offer smart lighting solutions that allow you to control your lighting system from your smartphone or tablet."
+          },
+          {
+            "question": "Can you help me design a landscape lighting plan?",
+            "answer": "Yes, we can help you design a beautiful and functional landscape lighting plan to enhance the curb appeal of your home or business."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased safety and capacity.",
+        "description": "Is your electrical panel outdated or struggling to keep up with your power demands? Lightning Electric Inc offers electrical panel upgrade services to ensure your home or business has a safe and reliable electrical system. An outdated panel can be a fire hazard and may not be able to handle the demands of modern appliances and electronics. Given Boise's mix of older and newer homes, panel upgrades are common to ensure safety and accommodate increased power usage.\n\nOur experienced electricians will assess your current electrical panel and recommend the appropriate upgrade to meet your needs. We'll handle the entire process, from removing the old panel to installing the new one, ensuring everything is up to code and functioning properly. We use only high-quality panels from trusted manufacturers to ensure long-lasting performance.\n\nDon't risk the safety of your home or business with an outdated electrical panel. Contact Lightning Electric Inc today to schedule an electrical panel upgrade and enjoy peace of mind knowing your electrical system is safe and reliable.",
+        "process": [
+          "Step 1: Assessment of your current electrical panel and power needs.",
+          "Step 2: Recommendation of the appropriate panel upgrade.",
+          "Step 3: Safe removal of the old panel.",
+          "Step 4: Professional installation of the new panel."
+        ],
+        "benefits": [
+          "Increased safety",
+          "Improved capacity",
+          "Compliance with electrical codes",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs that you may need an electrical panel upgrade include frequent breaker trips, flickering lights, and difficulty running multiple appliances at the same time."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "An electrical panel upgrade typically takes one to two days, depending on the complexity of the project."
+          },
+          {
+            "question": "Is it safe to replace an electrical panel myself?",
+            "answer": "No, it is not safe to replace an electrical panel yourself. This is a complex and potentially dangerous task that should only be performed by a licensed electrician."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Protect your home or business with a reliable backup generator.",
+        "description": "Power outages can be disruptive and costly, especially during Boise's severe winter weather or summer storms that can bring wildfire smoke. Lightning Electric Inc offers generator installation services to ensure your home or business has a reliable backup power source when you need it most. A generator can keep your lights on, your appliances running, and your business operating during an outage.\n\nWe offer a variety of generator options to meet your specific needs, including portable generators, standby generators, and whole-house generators. Our experienced electricians will assess your power requirements and recommend the appropriate generator for your home or business. We'll handle the entire installation process, from connecting the generator to your electrical system to ensuring it's functioning properly.\n\nDon't be caught in the dark during the next power outage. Contact Lightning Electric Inc today to schedule a generator installation and enjoy peace of mind knowing you have a reliable backup power source.",
+        "process": [
+          "Step 1: Assessment of your power needs and property.",
+          "Step 2: Recommendation of the appropriate generator system.",
+          "Step 3: Professional installation by licensed electricians.",
+          "Step 4: Testing and startup to ensure proper operation."
+        ],
+        "benefits": [
+          "Reliable backup power",
+          "Protection from power outages",
+          "Increased safety and security",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of generator you need depends on your power requirements. We can assess your needs and recommend the appropriate size generator for your home or business."
+          },
+          {
+            "question": "What is the difference between a portable generator and a standby generator?",
+            "answer": "A portable generator is a smaller, less expensive option that can be moved around and used for temporary power. A standby generator is a larger, more expensive option that is permanently installed and automatically starts when the power goes out."
+          },
+          {
+            "question": "Do I need a permit to install a generator?",
+            "answer": "Yes, you typically need a permit to install a generator. We can handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Comprehensive electrical solutions for Boise businesses.",
+        "description": "Lightning Electric Inc provides comprehensive electrical services for businesses throughout the Boise area. We understand the unique electrical needs of commercial properties and offer a wide range of services to keep your business running smoothly. From new construction wiring to routine maintenance and repairs, we have the expertise to handle any commercial electrical project. Boise's diverse business landscape, from downtown offices to industrial parks, requires versatile electrical solutions.\n\nOur commercial electrical services include: new construction wiring, tenant improvements, lighting upgrades, panel upgrades, generator installation, and more. We work closely with business owners and property managers to understand their specific needs and provide customized solutions that meet their budget and timeline. We also offer 24/7 emergency service to minimize downtime and keep your business operating.\n\nTrust Lightning Electric Inc to be your reliable partner for all your commercial electrical needs. Contact us today to discuss your project and receive a free estimate.",
+        "process": [
+          "Step 1: Consultation to discuss your business's electrical needs.",
+          "Step 2: Customized electrical plan tailored to your commercial space.",
+          "Step 3: Efficient and professional installation or repair services.",
+          "Step 4: Ongoing maintenance and support to ensure optimal performance."
+        ],
+        "benefits": [
+          "Expert commercial electrical services",
+          "Customized solutions",
+          "24/7 emergency service",
+          "Minimized downtime"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical maintenance contracts for businesses?",
+            "answer": "Yes, we offer electrical maintenance contracts to help businesses keep their electrical systems in top condition."
+          },
+          {
+            "question": "Can you handle large-scale commercial electrical projects?",
+            "answer": "Yes, we have the expertise and resources to handle large-scale commercial electrical projects."
+          },
+          {
+            "question": "Are you familiar with local electrical codes and regulations?",
+            "answer": "Yes, we are fully compliant with all local electrical codes and regulations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. is proud to provide comprehensive electrical services to the residents and businesses of Boise, Idaho. As the capital city and a major hub in the Treasure Valley, Boise demands reliable and professional electrical solutions, and we are committed to delivering just that. Our team of licensed and experienced electricians is equipped to handle any project, from routine maintenance and repairs to complex installations and upgrades.\n\nWe understand the unique electrical needs of Boise homes and businesses, from older residences in the North End to modern commercial buildings downtown. Whether you need help with wiring, lighting, panel upgrades, or surge protection, Lightning Electric Inc. is your trusted partner for safe and efficient electrical services in Boise. We prioritize customer satisfaction and strive to exceed your expectations with every job we undertake.",
+        "localContext": "Boise's mix of historic homes and modern developments creates diverse electrical needs, from updating outdated wiring to installing smart home systems.",
+        "nearbyAreas": [
+          "Meridian",
+          "Eagle",
+          "Nampa"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. extends its premier electrical services to Meridian, Idaho, one of the fastest-growing cities in the state. As Meridian continues to expand, the demand for reliable and professional electrical services is ever-increasing. We are dedicated to meeting the needs of Meridian's residential and commercial customers with top-quality workmanship and exceptional customer service.\n\nWhether you're building a new home in a rapidly developing neighborhood or managing a business in the heart of Meridian, Lightning Electric Inc. has the expertise to handle all your electrical needs. From new construction wiring to electrical repairs and maintenance, our team of licensed electricians is committed to providing safe, efficient, and affordable solutions. We understand the importance of reliable electrical systems in Meridian's thriving community.",
+        "localContext": "Meridian's rapid growth means many new homes and businesses require modern and energy-efficient electrical solutions.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. is pleased to serve the residents and businesses of Nampa, Idaho, the largest city in Canyon County. Nampa's diverse community requires a wide range of electrical services, and we are committed to providing top-quality solutions to meet those needs. Our team of licensed and experienced electricians is equipped to handle any project, from routine maintenance and repairs to complex installations and upgrades.\n\nWe understand the unique electrical needs of Nampa homes and businesses, from older residences in the historic downtown area to modern commercial buildings along the Interstate. Whether you need help with wiring, lighting, panel upgrades, or surge protection, Lightning Electric Inc. is your trusted partner for safe and efficient electrical services in Nampa.",
+        "localContext": "Nampa's mix of agricultural and industrial areas means a wide variety of electrical systems and requirements.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Middleton"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. proudly offers electrical services to the community of Caldwell, Idaho. As a vital part of the Treasure Valley, Caldwell relies on dependable electrical systems for homes and businesses alike. We are dedicated to providing Caldwell residents with top-tier electrical services, ranging from basic repairs to comprehensive installations.\n\nWhether you're in need of electrical inspections for a new home or require immediate repairs for a faulty circuit, our team is equipped to handle any task with precision and care. We understand the significance of having safe and functioning electrical systems in Caldwell, and we strive to exceed your expectations with every project we undertake.",
+        "localContext": "Caldwell's agricultural roots and growing residential areas create a demand for both rural and modern electrical solutions.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. is delighted to serve the residents and businesses of Eagle, Idaho. Eagle is known for its beautiful homes and thriving community, and we are committed to providing top-quality electrical services to meet the needs of this discerning clientele. Our team of licensed and experienced electricians is equipped to handle any project, from routine maintenance and repairs to complex installations and upgrades.\n\nWe understand the unique electrical needs of Eagle homes and businesses, from high-end residential properties to commercial establishments. Whether you need help with wiring, lighting, panel upgrades, or smart home integration, Lightning Electric Inc. is your trusted partner for safe and efficient electrical services in Eagle.",
+        "localContext": "Eagle's upscale homes often require specialized electrical services, including smart home integration and energy-efficient solutions.",
+        "nearbyAreas": [
+          "Boise",
+          "Star",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. extends its professional electrical services to Star, Idaho, a growing community known for its family-friendly atmosphere and beautiful surroundings. As Star continues to develop, the demand for reliable and trustworthy electrical services is increasing. We are dedicated to providing Star residents and businesses with top-quality workmanship and exceptional customer service.\n\nWhether you're building a new home in one of Star's many new subdivisions or need to upgrade the electrical system in an existing property, Lightning Electric Inc. has the expertise to handle all your electrical needs. From new construction wiring to electrical repairs and maintenance, our team of licensed electricians is committed to providing safe, efficient, and affordable solutions.",
+        "localContext": "Star's growth consists largely of new residential construction, creating a high demand for new wiring and electrical installations.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. is proud to offer its electrical services to the residents and businesses of Middleton, Idaho. As a growing community with a small-town charm, Middleton relies on dependable electrical systems for homes and businesses alike. We are dedicated to providing Middleton residents with top-tier electrical services, ranging from basic repairs to comprehensive installations.\n\nWhether you're in need of electrical inspections for a new home or require immediate repairs for a faulty circuit, our team is equipped to handle any task with precision and care. We understand the significance of having safe and functioning electrical systems in Middleton, and we strive to exceed your expectations with every project we undertake.",
+        "localContext": "Middleton's blend of agricultural areas and residential neighborhoods means a need for diverse electrical services.",
+        "nearbyAreas": [
+          "Star",
+          "Nampa",
+          "Caldwell"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "Lightning Electric Inc. is pleased to provide electrical services to the residents and businesses of Kuna, Idaho. Kuna is a rapidly growing community in the Treasure Valley, and we are committed to providing top-quality electrical solutions to meet the increasing demands of this vibrant area. Our team of licensed and experienced electricians is equipped to handle any project, from routine maintenance and repairs to complex installations and upgrades.\n\nWe understand the electrical needs of Kuna homes and businesses, from new residential developments to agricultural operations. Whether you need help with wiring, lighting, panel upgrades, or surge protection, Lightning Electric Inc. is your trusted partner for safe and efficient electrical services in Kuna. We prioritize customer satisfaction and strive to exceed your expectations with every job we undertake.",
+        "localContext": "Kuna's rapid growth means a high demand for new electrical installations in both residential and commercial sectors.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice K.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Lightning Electric replaced our old electrical panel. They were on time, professional, and explained everything clearly. Our lights don't flicker anymore! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Bob M.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "Had a couple of outlets that weren't working. Lightning Electric came out quickly and fixed them. The electrician was friendly and efficient.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Carolyn P.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "We used Lightning Electric to install new recessed lighting in our kitchen. They did a fantastic job and the kitchen looks amazing! The price was fair, and the work was excellent.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Generator Installation",
+        "text": "Living in Boise, we worry about winter power outages. Lightning Electric installed a whole-house generator for us, and the process was seamless. They handled everything from start to finish.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Wiring Repair",
+        "text": "We had some old wiring that needed to be repaired. Lightning Electric provided a prompt and professional service. I would definitely use them again.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Frank L.",
+        "rating": 5,
+        "service": "Commercial Electrical Services",
+        "text": "Lightning Electric has been handling the electrical maintenance for my business for the last year. They are always responsive and reliable. I highly recommend them for any commercial electrical needs.",
+        "date": "2024-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Boise Electrician | Lightning Electric Inc",
+        "description": "Reliable electrical services in Boise, ID. Licensed electricians for repair, installation, and more. Call +12085716040."
+      },
+      "about": {
+        "title": "About Lightning Electric Inc | Boise Electrician",
+        "description": "Learn about Lightning Electric Inc, a trusted electrician in Boise, ID. Quality service and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Electrical Services | Lightning Electric Inc",
+        "description": "Comprehensive electrical services in Boise, ID. Repair, installation, lighting, panel upgrades, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Lightning Electric Inc | Boise, ID",
+        "description": "Contact Lightning Electric Inc for reliable electrical services in Boise, ID. Get a free estimate today! Call +12085716040."
+      },
+      "reviews": {
+        "title": "Lightning Electric Inc Reviews | Boise, ID",
+        "description": "Read reviews for Lightning Electric Inc, a leading electrician in Boise, ID. See what our satisfied customers have to say."
+      },
+      "service-areas": {
+        "title": "Service Areas | Lightning Electric Inc",
+        "description": "Lightning Electric Inc provides electrical services in Boise and surrounding areas. Find a local electrician near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installations": "/images/service-electrical-installations.webp",
+      "lighting-solutions": "/images/service-lighting-solutions.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "generator-installation": "/images/service-generator-installation.webp",
+      "commercial-electrical": "/images/service-commercial-electrical.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installations": {
+        "src": "/images/service-electrical-installations.webp",
+        "srcset": "/images/service-electrical-installations-400w.webp 400w, /images/service-electrical-installations-800w.webp 800w, /images/service-electrical-installations-1200w.webp 1200w, /images/service-electrical-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-solutions": {
+        "src": "/images/service-lighting-solutions.webp",
+        "srcset": "/images/service-lighting-solutions-400w.webp 400w, /images/service-lighting-solutions-800w.webp 800w, /images/service-lighting-solutions-1200w.webp 1200w, /images/service-lighting-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical": {
+        "src": "/images/service-commercial-electrical.webp",
+        "srcset": "/images/service-commercial-electrical-400w.webp 400w, /images/service-commercial-electrical-800w.webp 800w, /images/service-commercial-electrical-1200w.webp 1200w, /images/service-commercial-electrical.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
